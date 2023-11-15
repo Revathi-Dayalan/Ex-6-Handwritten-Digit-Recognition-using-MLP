@@ -128,6 +128,8 @@ new_img.shape
 ![image](https://github.com/Revathi-Dayalan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/96000574/ca0a1a30-926d-4100-ac41-58f52de0ac62)
 # PREDICTION
 ![image](https://github.com/Revathi-Dayalan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/96000574/fdb5bed6-0e36-4781-94ea-2c13444c91fc)
+![image](https://github.com/Revathi-Dayalan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/96000574/928499ea-3638-4c3f-927f-1c3649b89c1a)
+![image](https://github.com/Revathi-Dayalan/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/96000574/fa7be2cf-63ba-4921-9c8b-21c2f30e55bb)
 
 
 
